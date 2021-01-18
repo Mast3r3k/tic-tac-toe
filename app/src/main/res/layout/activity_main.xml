@@ -27,7 +27,7 @@
         <ImageView
             android:id="@+id/imageView1"
             android:layout_width="131dp"
-            android:layout_height="131dp"
+            android:layout_height="134dp"
             android:adjustViewBounds="false"
             android:alpha="0"
             android:cropToPadding="false"
@@ -42,7 +42,7 @@
         <ImageView
             android:id="@+id/imageView2"
             android:layout_width="133dp"
-            android:layout_height="131dp"
+            android:layout_height="135dp"
             android:alpha="0"
             android:foregroundGravity="center"
             android:onClick="click"
@@ -78,7 +78,7 @@
         <ImageView
             android:id="@+id/imageView5"
             android:layout_width="130dp"
-            android:layout_height="150dp"
+            android:layout_height="140dp"
             android:alpha="0"
             android:foregroundGravity="center"
             android:onClick="click"
@@ -102,7 +102,7 @@
         <ImageView
             android:id="@+id/imageView7"
             android:layout_width="130dp"
-            android:layout_height="131dp"
+            android:layout_height="143dp"
             android:alpha="0"
             android:foregroundGravity="center"
             android:onClick="click"
@@ -114,7 +114,7 @@
         <ImageView
             android:id="@+id/imageView8"
             android:layout_width="132dp"
-            android:layout_height="131dp"
+            android:layout_height="141dp"
             android:alpha="0"
             android:foregroundGravity="center"
             android:onClick="click"
@@ -126,7 +126,7 @@
         <ImageView
             android:id="@+id/imageView9"
             android:layout_width="122dp"
-            android:layout_height="127dp"
+            android:layout_height="144dp"
             android:alpha="0"
             android:foregroundGravity="center"
             android:onClick="click"
